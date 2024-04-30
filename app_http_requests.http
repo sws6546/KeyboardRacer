@@ -1,0 +1,7 @@
+### Request for words
+POST http://localhost:3000/api/getWords
+Content-Type: application/json
+
+{
+  "wordsNumber": 5
+}
